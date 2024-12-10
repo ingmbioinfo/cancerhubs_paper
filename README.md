@@ -3,9 +3,9 @@
 
 
 # CancerHubs paper results
-This directory allows users to reproduce the results of cancerhubs paper. PRECOG and BIOGRID versions, tumor datasets and code won't be updated.
-To understand the content of each folder or to explore new results please refer to our [main page](https://github.com/ingmbioinfo/cancerhubs).
-In shiny_app folder you'll find the BETA version of our app to interactively explore the results.
+This directory enables users to reproduce the results presented in the *CancerHubs* paper. Please note that the versions of PRECOG, BIOGRID, tumour datasets, and associated code will not be updated.  
+For a detailed overview of each folder's content or to explore new results, please visit our [main page](https://github.com/ingmbioinfo/cancerhubs).  
+The **shiny_app** folder contains the BETA version of our Shiny app, allowing you to interactively explore the results.
 
 ## Funding
 This research was funded by Associazione Italiana per la Ricerca sul Cancro (AIRC), under MFAG 2021 ID 26178 project to Nicola Manfrini.
